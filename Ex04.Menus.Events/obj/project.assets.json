@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bar Bichachi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/jonathanporan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bar Bichachi\\Source\\Repos\\B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186\\Ex04.Menus.Events\\Ex04.Menus.Events.csproj",
+      "projectUniqueName": "/Users/jonathanporan/Documents/GitHub/MTA/Second Year/B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186/Ex04.Menus.Events/Ex04.Menus.Events.csproj",
       "projectName": "Ex04.Menus.Events",
-      "projectPath": "C:\\Users\\Bar Bichachi\\Source\\Repos\\B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186\\Ex04.Menus.Events\\Ex04.Menus.Events.csproj",
-      "packagesPath": "C:\\Users\\Bar Bichachi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bar Bichachi\\Source\\Repos\\B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186\\Ex04.Menus.Events\\obj\\",
+      "projectPath": "/Users/jonathanporan/Documents/GitHub/MTA/Second Year/B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186/Ex04.Menus.Events/Ex04.Menus.Events.csproj",
+      "packagesPath": "/Users/jonathanporan/.nuget/packages/",
+      "outputPath": "/Users/jonathanporan/Documents/GitHub/MTA/Second Year/B24-Ex04-BarBichachi-315852111-JonathanPoran-209012186/Ex04.Menus.Events/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Bar Bichachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jonathanporan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
